@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hub/hdanhhub/refs/heads/main/fixlagbyhdanh.lua"))()
+loadstring(game:HttpGet("https://github.com/bxbsjjxdjjjxk-cpu/cac/blob/main/grai_script.lua.txt"))()
 -- ==========================================
 -- SERVICES
 -- ==========================================
